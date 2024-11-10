@@ -1,1 +1,1 @@
-Análise de série temporais das vendas de empresa fictícia de carros
+Análise de séries temporais das vendas de empresa fictícia de carros
