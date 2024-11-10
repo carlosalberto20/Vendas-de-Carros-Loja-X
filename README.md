@@ -1,2 +1,1 @@
-# Vendas-Carros-LojaX
- Análise das vendas de empresa fictícia de carros
+Análise das vendas de empresa fictícia de carros
