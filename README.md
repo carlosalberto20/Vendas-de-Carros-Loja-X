@@ -1,2 +1,2 @@
-Repositório de análises exploratórias e visualizações!
+Repositório de análises exploratórias e visualizações de dados!
 
