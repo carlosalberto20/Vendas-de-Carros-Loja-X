@@ -1,1 +1,1 @@
-Análise de séries temporais das vendas de empresa fictícia de carros.
+Repositório de análise de dados exploratórias
